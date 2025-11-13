@@ -13,5 +13,5 @@ This is a simple iOS application that demonstrates the use of lists and iterator
 3. Build and run the application.
 
 ## Screenshots
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
+<img src="assets/screenshot1.png" width="240">
+<img src="assets/screenshot2.png" width="240">
