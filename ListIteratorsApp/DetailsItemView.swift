@@ -30,9 +30,11 @@ struct DetailsItemView: View {
         .frame(maxHeight: .infinity,
                alignment: .top)
         .padding()
+        
     }
 }
 
 #Preview {
     DetailsItemView(personEntity: PersonEntity(name: "Johnny Freire", favoriteColor: Color.black))
+    
 }
